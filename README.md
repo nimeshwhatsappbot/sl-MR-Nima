@@ -127,3 +127,9 @@ npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 <div>
 <br>
 
+2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
+3.  ***Click [`FORK`](https://github.com/nimeshwhatsappbot/S-Nimesh-Bot/fork)***
+4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
+5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+6.  ***Deploy on [`Deploy on replit`]( https://repl.it/github/SuhailTechInfo/Secktor-bot)***
+##
