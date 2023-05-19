@@ -4,7 +4,7 @@
 <p align="center">
 <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
 
-
+replit deploya-https://replit.com/@nimeshwhatsappb/Nodejs#index.js
 </p>
 <p align="center">
 <a href="#"><img title="𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞." src="https://img.shields.io/badge/𝐐𝐔𝚵𝚵𝚴 𝚫𝚴𝐘𝚫 𝐦𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞.-red?colorA=%23ff0000&colorB=%23ff0000&style=for-the-badge"></a>
