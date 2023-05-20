@@ -120,7 +120,7 @@ npm i -g pm2 && pm2 start Anyaindex.js && pm2 save && pm2 logs
 ### `𝑻𝒉𝒆 𝒎𝒂𝒊𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑷𝒊𝑲𝒂𝑪𝒉𝒖🥵🔥`
 <p align="center">
 
-<img src="https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/Developer_pics/Developerpic.jpg">   
+<img src="https://camo.githubusercontent.com/1aef036e63e816f8149f400710ba116c83bdf7a07c83236fe1604e360dea5a3c/68747470733a2f2f692e6962622e636f2f6e5059567477562f717565656e2d656c6973612d6e65772d6c6f676f2d3630302d3630302e6a7067">   
 
 ##
 <br>
