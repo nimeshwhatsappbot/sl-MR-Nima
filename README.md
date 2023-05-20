@@ -36,7 +36,7 @@ replit deploya-https://replit.com/@nimeshwhatsappb/Nodejs#index.js
 
 <p align="center">
 𝗛𝗲𝗿𝗼𝗸𝘂
-
+https://camo.githubusercontent.com/f48b6827fe2ad540b69841f94352f805a0e13e2d16bd82cf9de83133cba881e7/68747470733a2f2f74656c656772612e70682f66696c652f3930396632353139623164633635613333386232392e6a7067
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya-pika-MD-v2/"><img align="center" src="https://www.herokucdn.com/deploy/button.svg" alt="Fork and deploy" /></a>
 </P>
